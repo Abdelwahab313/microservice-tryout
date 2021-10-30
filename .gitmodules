@@ -1,3 +1,6 @@
 [submodule "rails_api"]
 	path = rails_api
 	url = https://github.com/Abdelwahab313/rails-service.git
+[submodule "api_gateway"]
+	path = api_gateway
+	url = https://github.com/Abdelwahab313/api_gateway.git
